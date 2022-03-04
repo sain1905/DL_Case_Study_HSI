@@ -2,6 +2,7 @@
 Here you will find the jupyter notebook supporting the Case study
 
 Files: 
+----------------------------------------------------------------------
 
 Multi Layer Neural Network model :
 
