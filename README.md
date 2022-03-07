@@ -16,11 +16,13 @@ HSI_DeepLearning_colab_4.pdf - pdf of the above mentioned notebook
 
 Unet model :
 
-HSI_Unet_model_3_r2.zip -  contains the jupyter notebook
+HSI_Unet_model_4_r4.zip -  contains the jupyter notebook
 
-HSI_Unet_model_3_r2.html - html view of the above mentioned notebook
+HSI_Unet_model_4_r4.html - html view of the above mentioned notebook
 
-HSI_Unet_model_3_r2.pdf - pdf of the above mentioned notebook
+HSI_Unet_model_4_r4.pdf - pdf of the above mentioned notebook
+
+(Replacement for HSI_Unet_model_3_r2 files)
 
 ----------------------------------------------------------------------
 
