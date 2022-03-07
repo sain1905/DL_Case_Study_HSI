@@ -22,7 +22,7 @@ HSI_Unet_model_4_r4.html - html view of the above mentioned notebook
 
 HSI_Unet_model_4_r4.pdf - pdf of the above mentioned notebook
 
-(Replacement for HSI_Unet_model_3_r2 files)
+(HSI_Unet_model_4_r4 Replaces for HSI_Unet_model_3_r2 files)
 
 ----------------------------------------------------------------------
 
