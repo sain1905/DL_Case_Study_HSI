@@ -22,9 +22,18 @@ HSI_Unet_model_4_r4.html - html view of the above mentioned notebook
 
 HSI_Unet_model_4_r4.pdf - pdf of the above mentioned notebook
 
-(HSI_Unet_model_4_r4 Replaces for HSI_Unet_model_3_r2 files)
+Study details are captured in blog: https://sachinbu.medium.com/hyperspectral-image-segmentation-21432965e138
+----------------------------------------------------------------------
+
+A2FPN model :
+
+HSI_A2_FPN_model_r4.zip -  contains the jupyter notebook
+
+HSI_A2_FPN_model_r4.html - html view of the above mentioned notebook
+
+HSI_A2_FPN_model_r4.pdf - pdf of the above mentioned notebook
 
 ----------------------------------------------------------------------
 
-Study details are captured in blog: https://sachinbu.medium.com/hyperspectral-image-segmentation-21432965e138
+
 
